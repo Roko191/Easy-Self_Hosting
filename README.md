@@ -42,7 +42,14 @@ I added this because my OCD started working when I saw there is no `<head>` tag 
 
 ## Quick Guide
 
-1. You need to git clone
+1. You need to git clone repository by command 
+
+   ```
+   git clone https://github.com/Roko191/Easy-Self_Hosting.git
+   ```
+
+   *Note! You have to have installed **Git** for this*
+   or you can *download* by pressing `Code` -> `Download ZIP` and then extract it with program like `7-zip`,`WinRar`,...
 
 2. You need to host **content** of  `host_this`. You will need to set up a HTTP server for that. You can use XAMMP, Node.js HTTP server, ... It is up to you!
 
