@@ -73,7 +73,8 @@ I added this because my OCD started working when I saw there is no `<head>` tag 
    You should see something like this:
    ![](https://raw.githubusercontent.com/Roko191/Easy-Self_Hosting/main/Preiview_Images/ps4-easy-host.png)
    If you get something like this:
-   ![](C:\Users\Korisnik\Desktop\ps4-easy-host-2.png)Try typing:
+   ![](https://raw.githubusercontent.com/Roko191/Easy-Self_Hosting/main/Preiview_Images/ps4-easy-host-2.png)
+   Try typing:
 
    ```
    0.0.0.0/host_this
