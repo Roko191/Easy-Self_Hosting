@@ -92,7 +92,7 @@ I added this because my OCD started working when I saw there is no `<head>` tag 
 
 9. Press `Activate 7.5x Jailbreak`
 
-10. Once exploit is activated successfully you will need to inject some payload with payload injector (I recommend [NetCat GUI 1.1](https://mega.nz/file/VwpAGCLZ#gelfD08btceqVdxGEGYncW4ByBlN3pdDw2EUZkdeeeI)) ([Mira 7.55](), [7.5x payloads]([https://bit.ly/3bVuFe4]))
+10. Once exploit is activated successfully you will need to inject some payload with payload injector (I recommend [NetCat GUI 1.1](https://mega.nz/file/VwpAGCLZ#gelfD08btceqVdxGEGYncW4ByBlN3pdDw2EUZkdeeeI)) ([Mira 7.55](), [7.5x payloads](https://bit.ly/3bVuFe4))
 
 11. **Profit!** That should be it. Enjoy
 
