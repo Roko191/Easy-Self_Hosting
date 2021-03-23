@@ -71,7 +71,8 @@ I added this because my OCD started working when I saw there is no `<head>` tag 
 
 4. Enter your computer IP address in your browser top bar to check if it is working.
    You should see something like this:
-   ![](C:\Users\Korisnik\Desktop\ps4-easy-host.png)If you get something like this:
+   ![](https://raw.githubusercontent.com/Roko191/Easy-Self_Hosting/main/Preiview_Images/ps4-easy-host.png)
+   If you get something like this:
    ![](C:\Users\Korisnik\Desktop\ps4-easy-host-2.png)Try typing:
 
    ```
