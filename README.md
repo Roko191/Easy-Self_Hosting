@@ -53,7 +53,11 @@ I added this because my OCD started working when I saw there is no `<head>` tag 
 
 2. You need to host **content** of  `host_this`. You will need to set up a HTTP server for that. You can use XAMMP, Node.js HTTP server, ... It is up to you!
 
-3. You need to check your PC IPv4 address. You can do that by open command prompt and typing command
+3. You need to check your PC IPv4 address. 
+
+   You can run `netconf.bat` that I gave you in `bat` folder or...
+
+   ...You can do that by opening command prompt and typing command
 
    ```
    ipconfig
@@ -94,7 +98,13 @@ I added this because my OCD started working when I saw there is no `<head>` tag 
 
 10. Once exploit is activated successfully you will need to inject some payload with payload injector (I recommend [NetCat GUI 1.1](https://mega.nz/file/VwpAGCLZ#gelfD08btceqVdxGEGYncW4ByBlN3pdDw2EUZkdeeeI)) ([Mira 7.55](), [7.5x payloads](https://bit.ly/3bVuFe4))
 
-11. **Profit!** That should be it. Enjoy
+11. **Profit!** That should be it. Enjoy!
+
+## Patch 1.50
+
+1. Added `bat` folder which contains:
+   - `netconf.bat` -> check your `IPv4 address` or your whole `Network configuration`.
+   - `nodejshttp.bat` -> After you install [**NodeJS**](https://nodejs.org/) then you can run this *bat file* to download `NodeJS http sever`.
 
 ## Help
 
